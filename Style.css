@@ -1,0 +1,52 @@
+<style>
+
+    h1{
+        font-family: sans-serif;
+        color:red
+    }
+    h2{
+        font-size: 48px;
+        text-align: center;
+        color:#32a128
+    }
+    h3{
+        font-size: 48px;
+        color:#32a128
+    }
+    body{
+        background: hsla(33, 100%, 53%, 1);
+
+background: linear-gradient(90deg, hsla(33, 100%, 53%, 0.4) 0%, hsla(58, 100%, 68%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(33, 100%, 53%, 0.4) 0%, hsla(58, 100%, 68%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(33, 100%, 53%, 0.4) 0%, hsla(58, 100%, 68%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF930F", endColorstr="#FFF95B", GradientType=1 );
+
+        font-size: 16px;
+}
+
+    p{
+        font-size: 32px;
+        text-align: center;
+    }
+
+
+    .list-style{
+        font-size: 32px;
+        color:blue
+}
+    .link{
+        font-size: 32px;
+        text-align: center;
+        color:red
+    }
+
+
+
+
+
+
+
+    </style>
